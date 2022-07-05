@@ -1,10 +1,16 @@
-# nvidia-rapids-data-science-project
+# Introduction to Accelerated Machine Learning
 
-Repository containing scaffolding for a Python 3-based data science project using the [NVIDIA RAPIDS](https://rapids.ai/index.html) libraries.
+Repository of teaching materials for a muti-day course on accelerated machine learning using Scikit-Learn, Dask, CuPy, Numba, and the [NVIDIA RAPIDS](https://rapids.ai/index.html) libraries.
 
-## Creating a new project from this template
+## Syllabus
 
-Simply follow the [instructions](https://help.github.com/en/articles/creating-a-repository-from-a-template) to create a new project repository from this template.
+### Day 1: Accelerating ML pipelines using Dask, Scikit-Learn, and XGBoost
+
+### Day 2: Accelerating ML pipelines using NVIDIA RAPIDS, and XGBoost.
+
+### Day 3: Writing custom kernels using CuPy and Numba
+
+### Day 4: Scaling ML pipelines using Dask, NVIDIA RAPIDS, and XGBoost.
 
 ## Project organization
 
